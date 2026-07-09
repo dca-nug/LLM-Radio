@@ -114,18 +114,3 @@ stay blinded to system outputs throughout, including during consensus.
 - Determinism was checked across two full reruns and was 100% identical over
   1,712 label decisions.
 
-## Code and data availability (draft for the manuscript)
-
-> The analysis code is available at [ISI: repo URL] under [ISI: license]
-> ([ISI: DOI Zenodo]). The report texts contain health screening data and cannot
-> be shared publicly; they may be available from the corresponding author on
-> reasonable request, subject to ethics approval [ISI: nomor EC] and a data use
-> agreement.
-
-## Citation
-
-See `CITATION.cff`. Fill the placeholders before publishing the repo.
-
-## License
-
-[ISI: pilih lisensi] — see `LICENSE`.
