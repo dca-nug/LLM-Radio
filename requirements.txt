@@ -1,0 +1,17 @@
+# Python 3.11.4
+# Versi di-pin sesuai lingkungan yang dipakai pada studi.
+pandas==2.3.0
+numpy==1.26.4
+openpyxl==3.1.5
+spacy==3.7.5
+medspacy==1.3.1
+rapidfuzz==3.14.5
+
+# Klien Python untuk Ollama. Versi tidak di-pin di sini karena
+# bergantung pada versi server Ollama lokal (lihat README).
+# [ISI: pin versi persis, mis. `pip show ollama` di mesin studi]
+ollama
+
+# CATATAN (bukan paket pip):
+#   - Ollama server/CLI v0.30.11 (unduh dari https://ollama.com)
+#   - Model: gemma2:9b-instruct-q4_K_M dan sahabatgemma-fix (lihat modelfiles/)
